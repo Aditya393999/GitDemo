@@ -1,2 +1,7 @@
+
 hello
 hello.xml.orig
+
+*.log
+dir/
+
